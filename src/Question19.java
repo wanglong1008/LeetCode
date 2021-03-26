@@ -21,11 +21,3 @@ public class Question19 {
 
 
 }
-/**
- * 定义链表节点
- **/
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
